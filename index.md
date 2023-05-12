@@ -16,3 +16,5 @@ My GitHub page is http://github.com/Haront1.
 
 * Lab 5
     Lab 5, part 2, was a favorite because I didn't know how the game Blackjack worked. I was able to create this game with my partner and learn how to play it at the same time. My partner and I also worked on debugging during this lab and developed our debugging skills.
+
+I love computer science    
